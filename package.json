@@ -1,6 +1,8 @@
 {
-	"name": "chatter",
-	"version": "0.0.1",
-	"description": "welcome to the world of sockets",
-	"dependencies": {}
+  "name": "chatter",
+  "version": "0.0.1",
+  "description": "welcome to the world of sockets",
+  "dependencies": {
+    "express": "^4.9.4"
+  }
 }
